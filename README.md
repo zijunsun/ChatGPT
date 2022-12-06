@@ -19,7 +19,7 @@ ChatGPT was trained using Reinforcement Learning from Human Feedback (RLHF), the
 
 
 ## Quick start
-Upcoming....
+Try or Deploy an app powered by ChatGPT. [Example](https://huggingface.co/spaces/Xhaheen/ChatGPT_HF)
 
 ## Discussion
 
