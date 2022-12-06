@@ -31,4 +31,4 @@ Upcoming....
 ## Cost
 1. The cost of training GPT-3 is over 4.6 million dollars. [link](https://heits.digital/articles/gpt3-overview)
 2. Each chat cost single-digits cents. [link](https://twitter.com/sama/status/1599671496636780546)
-3. 1 week, 1 million users, cost 100k doller totally. [link](https://twitter.com/sama/status/1599668808285028353)
+3. 1 week, 1 million users, cost 100k dollars totally. [link](https://twitter.com/sama/status/1599668808285028353)
